@@ -1,0 +1,36 @@
+<!-- index.html: App Home Page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Worksheet Generator</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 2em auto; padding: 0 1em; }
+    header { text-align: center; margin-bottom: 2em; }
+    nav a { margin: 0 1em; text-decoration: none; color: #005f73; }
+    footer { margin-top: 3em; font-size: 0.85em; text-align: center; color: #555; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Worksheet Generator</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/privacy.html">Privacy Policy</a>
+      <a href="https://github.com/your-github-user/worksheet-generator" target="_blank">GitHub Repo</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>Welcome to Worksheet Generator! Create Google Docs, PDFs, and Forms for NGSS-aligned lessons quickly.</p>
+    <p>Click below to open the tool:</p>
+    <a href="https://script.google.com/macros/s/AKfycbw.../exec" target="_blank">Launch the Web App</a>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Your Name or Organization</p>
+    <p>Hosted on GitHub Pages: <a href="https://your-github-user.github.io/worksheet-generator/">https://your-github-user.github.io/worksheet-generator/</a></p>
+  </footer>
+</body>
+</html>
